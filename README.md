@@ -10,5 +10,8 @@ every single mixtape.
 if you don't know how to set up a scrapy spider, read the docs here
 https://scrapy.org/
 
-shoutout to @John2941 for the inspiration
+shout out to @John2941 for the inspiration
 https://github.com/John2941/datpiff
+
+if you do not know what datpiff is, well enjoy yourself!
+https://www.datpiff.com
