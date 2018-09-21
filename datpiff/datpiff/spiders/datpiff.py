@@ -1,7 +1,5 @@
 import os
-import pickle
 import re
-import requests
 import scrapy
 import string
 
